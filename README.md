@@ -38,5 +38,5 @@ This project provides an interactive tool built with **Streamlit** for analyzing
 To get started, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/Consumer-Behavior-Analysis.git
+git clone https://github.com/rbhardwaj2186/Consumer-Behavior-Analysis.git
 cd Consumer-Behavior-Analysis
