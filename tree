@@ -1,0 +1,10 @@
+Consumer-Behavior-Analysis/
+├── data/                           # Folder for storing raw and processed data
+│   └── survey_data.xlsx            # Original data in Excel format
+├── notebooks/
+│   └── contingency_table_analysis.ipynb  # Jupyter notebook for detailed analysis
+├── src/                            # Folder for source code files
+│   ├── data_preprocessing.py       # Script for data loading and preprocessing
+│   ├── chi_square_analysis.py      # Script for running Chi-square tests
+├── app.py                          # Streamlit app file
+└── requirements.txt                # Dependencies
