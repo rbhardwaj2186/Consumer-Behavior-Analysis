@@ -6,6 +6,12 @@ This project provides an interactive tool built with **Streamlit** for analyzing
 
 ![4](https://github.com/user-attachments/assets/931f89e6-341e-4908-9380-5726d0650e8f)
 
+
+
+https://github.com/user-attachments/assets/19d7aa7b-5433-42fe-98c9-a79e49b502e5
+
+
+
 ### Purpose and Use Case
 
 **This tool could be particularly useful for marketers, product managers, or analysts interested in understanding consumer behavior patterns. For instance:**
