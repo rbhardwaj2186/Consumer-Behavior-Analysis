@@ -4,7 +4,8 @@
 
 This project provides an interactive tool built with **Streamlit** for analyzing consumer behavior data through **Chi-square tests of independence**. It helps users determine if there are statistically significant associations between categorical variables related to consumer behavior.
 
-<img src="https://github.com/user-attachments/assets/fedec27f-b672-4de6-a493-623359877f65" alt="Descriptive Alt Text" width="100%">
+![4](https://github.com/user-attachments/assets/931f89e6-341e-4908-9380-5726d0650e8f)
+
 
 ### Key Features
 - **Dataset Selection**: Choose between two datasets to analyze:
