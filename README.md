@@ -6,6 +6,13 @@ This project provides an interactive tool built with **Streamlit** for analyzing
 
 ![4](https://github.com/user-attachments/assets/931f89e6-341e-4908-9380-5726d0650e8f)
 
+### Purpose and Use Case
+
+**This tool could be particularly useful for marketers, product managers, or analysts interested in understanding consumer behavior patterns. For instance:**
+
+    Newsletter Engagement vs. Download Behavior could help marketing teams decide if there’s a correlation between engagement with newsletters and interest in downloadable content, guiding strategies to boost downloads.
+    Product Uniqueness vs. Purchase Likelihood could inform product development or branding teams about how much perceived uniqueness impacts purchase decisions, guiding product positioning strategies.
+
 
 ### Key Features
 - **Dataset Selection**: Choose between two datasets to analyze:
